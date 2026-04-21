@@ -12,8 +12,8 @@ Outputs: `sentiment_analysis.png` (6-chart figure)
 ## Datasets
 | Dataset | Rows | Columns |
 |---|---|---|
-| Hyperliquid Trader Data | 211,224 | 16 |
-| Bitcoin Fear/Greed Index | 2,644 | 4 |
+| Trade Data | 211,224 | 16 |
+| Fear/Greed Index | 2,644 | 4 |
 | **Merged (by date)** | **184,263** | — |
 
 - Date range: 2023-03-28 → 2025-02-19
